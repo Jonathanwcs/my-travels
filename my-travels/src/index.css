@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+
+
+.test{
+  margin: auto;
+  border: 2px black solid;
+  width: 50%;
+  margin-bottom: 50px;
+}
+
+img{
+  max-width: 500px;
+  max-height: 500px;
+}
